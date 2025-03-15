@@ -1,0 +1,25 @@
+# Diretório de build (gerado automaticamente pelo ESP-IDF)
+build/
+
+# Arquivos de configuração do sdk (gerados)
+sdkconfig
+sdkconfig.old
+
+# Arquivos binários e de mapeamento gerados na compilação
+*.elf
+*.bin
+*.map
+*.d
+
+# Arquivos de log gerados
+idf_monitor.log
+
+# Pastas de configuração de ambiente/editor
+.vscode/
+.ccache/
+
+# Arquivos de partição (se gerados automaticamente)
+*.csv
+
+# Outros arquivos temporários ou de cache
+*.o
