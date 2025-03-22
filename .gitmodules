@@ -1,0 +1,3 @@
+[submodule "Display/components/Test_display/IDF_Lab"]
+	path = Display/components/Test_display/IDF_Lab
+	url = https://github.com/luanjjbr/IDF_Lab.git
